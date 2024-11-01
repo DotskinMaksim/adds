@@ -1,0 +1,22 @@
+# Composer dependencies
+/vendor/
+
+/node_modules/
+
+# Environment variables
+.env
+
+# IDE и системные файлы
+/.idea/
+/.vscode/
+*.DS_Store
+Thumbs.db
+
+# Кеш и логи
+/cache/
+/logs/
+*.log
+
+# Сессии и временные файлы
+/storage/
+/tmp/
